@@ -53,11 +53,20 @@ Desarrollador polivalente enfocado en la creación de aplicaciones SaaS robustas
 ## 💼 Experiencia de Desarrollo
 
 >  *Nota: Por acuerdos de confidencialidad (NDA), los repositorios de entornos corporativos son privados, pero aquí detallo mis hitos técnicos:*
+#### **Full-Stack Developer & Systems Integrator** @ E-asy *(Febrero 2026 — Mayo 2026)*
+*   Diseñé y programé microservicios y APIs utilizando tanto **Node.js (Prisma ORM)** como **Java (Spring Boot)**, desplegándolos en producción a través de **Render**.
+*   Desarrollé integraciones complejas de sincronización de procesos de negocio conectando aplicaciones web modernas con el sistema **ERP de Velneo**.
+*   Diseñé módulos dinámicos e interfaces con **Next.js** y **React**, además de realizar maquetaciones corporativas avanzadas en **WordPress (Divi)**.
+*   Automaticé y homogeneicé los entornos de desarrollo locales del equipo mediante la creación de arquitecturas de contenedores en **Docker y Docker Compose**.
 
-*   **Full-Stack Developer @ E-asy:** Desarrollé microservicios en **Node.js (Prisma)** y **Java (Spring Boot)** en Render. Programé integraciones de sincronización con el **ERP de Velneo**. Containericé los entornos de desarrollo locales usando **Docker**.
-*   **Web Developer @ Inxpira Estudios:** Creación de interfaces dinámicas para aplicaciones web híbridas mediante **Angular** e **Ionic**.
-*   **IT Systems Technician @ Console Repairs Ireland (Irlanda):** Prácticas internacionales de administración de redes locales, **Windows Server** y **Ubuntu Server** (Entorno 100% en inglés).
-
+#### **Web Developer** @ Inxpira Estudios *(Mayo 2025 — Junio 2025)*
+*   Desarrollé vistas responsivas y dinámicas para aplicaciones web híbridas mediante **Angular** e **Ionic**.
+*   Apliqué control de versiones robusto y flujos de integración del código utilizando **Git** y **GitHub**.
+*   Realize y diseñé maquetaciones corporativas avanzadas en **WordPress (Elementor Pro)**.
+  
+#### **Network & Systems Technician (Erasmus+ Intern)** @ Console Repairs Ireland — Bray, Irlanda *(Abril 2024 — Julio 2024)*
+*   Diagnóstico profundo de hardware e infraestructura de red corporativa en un entorno internacional de habla inglesa.
+*   Administración y despliegue de políticas locales en servidores empresariales **Windows Server** y entornos **Linux Ubuntu**.
 ---
 
 ## 📈 Mis Estadísticas de GitHub
@@ -72,17 +81,3 @@ Desarrollador polivalente enfocado en la creación de aplicaciones SaaS robustas
  **¿Conectamos?**  
 ✉️ **arturocaamanorodriguez@gmail.com** 
 
-<!--
-**0Zack0-0/0Zack0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
