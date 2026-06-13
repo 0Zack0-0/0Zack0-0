@@ -69,15 +69,6 @@ Desarrollador polivalente enfocado en la creación de aplicaciones SaaS robustas
 *   Administración y despliegue de políticas locales en servidores empresariales **Windows Server** y entornos **Linux Ubuntu**.
 ---
 
-## 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0Zack0-0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Arturo" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Zack0-0&layout=compact&theme=radical&hide=css,html" alt="Lenguajes más usados" height="150">
-</p>
-
----
-
  **¿Conectamos?**  
 ✉️ **arturocaamanorodriguez@gmail.com** 
 
