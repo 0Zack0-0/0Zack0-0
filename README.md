@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10,15,20&height=180&section=header&text=Arturo%20Caamaño&fontSize=50&animation=fadeIn" alt="Banner Arturo">
-</p>
 
-### 🚀 Desarrollador Web Full-Stack & Técnico de Sistemas y Redes
+
+###  Desarrollador Web Full-Stack & Técnico de Sistemas y Redes
 
 Desarrollador polivalente enfocado en la creación de aplicaciones SaaS robustas, optimización de arquitecturas backend y rendimiento de bases de datos relacionales. Combino una sólida base en administración de sistemas con el desarrollo de software moderno de extremo a extremo e integración de plataformas ERP corporativas.
 
@@ -11,9 +9,8 @@ Desarrollador polivalente enfocado en la creación de aplicaciones SaaS robustas
 
 ---
 
-## 🛠️ Mi Arsenal Tecnológico
-
-### 🖥️ Backend & APIs
+## Tecnologías
+###  Backend & APIs
 ![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -21,7 +18,7 @@ Desarrollador polivalente enfocado en la creación de aplicaciones SaaS robustas
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🎨 Frontend & Maquetación
+### Frontend & Maquetación
 ![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,7 +26,7 @@ Desarrollador polivalente enfocado en la creación de aplicaciones SaaS robustas
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress_Divi-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-### 🗄️ Bases de Datos & Infraestructura
+### Bases de Datos & Infraestructura
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -39,7 +36,7 @@ Desarrollador polivalente enfocado en la creación de aplicaciones SaaS robustas
 
 ---
 
-## 🚀 Proyecto Destacado
+## Proyecto Destacado
 
 ### **ConnectSystem — SaaS Multi-Tenant de Inventario y CRM**
 *Plataforma comercial B2B para PYMEs que unifica stock en tiempo real, almacenes, ventas y facturación. Desplegado en producción a coste mensual cero.*
@@ -55,7 +52,7 @@ Desarrollador polivalente enfocado en la creación de aplicaciones SaaS robustas
 
 ## 💼 Experiencia de Desarrollo
 
-> 🔒 *Nota: Por acuerdos de confidencialidad (NDA), los repositorios de entornos corporativos son privados, pero aquí detallo mis hitos técnicos:*
+>  *Nota: Por acuerdos de confidencialidad (NDA), los repositorios de entornos corporativos son privados, pero aquí detallo mis hitos técnicos:*
 
 *   **Full-Stack Developer @ E-asy:** Desarrollé microservicios en **Node.js (Prisma)** y **Java (Spring Boot)** en Render. Programé integraciones de sincronización con el **ERP de Velneo**. Containericé los entornos de desarrollo locales usando **Docker**.
 *   **Web Developer @ Inxpira Estudios:** Creación de interfaces dinámicas para aplicaciones web híbridas mediante **Angular** e **Ionic**.
@@ -66,14 +63,14 @@ Desarrollador polivalente enfocado en la creación de aplicaciones SaaS robustas
 ## 📈 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REEMPLAZA_POR_TU_USUARIO&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Arturo" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REEMPLAZA_POR_TU_USUARIO&layout=compact&theme=radical&hide=css,html" alt="Lenguajes más usados" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=0Zack0-0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Arturo" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Zack0-0&layout=compact&theme=radical&hide=css,html" alt="Lenguajes más usados" height="150">
 </p>
 
 ---
 
-📬 **¿Conectamos?**  
-✉️ **arturocaamanorodriguez@gmail.com** | 🔗 [Mi perfil de LinkedIn](REEMPLAZA_POR_TU_LINKEDIN)
+ **¿Conectamos?**  
+✉️ **arturocaamanorodriguez@gmail.com** 
 
 <!--
 **0Zack0-0/0Zack0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
